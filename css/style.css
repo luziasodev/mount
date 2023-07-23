@@ -24,9 +24,9 @@ h2,
 
 #titulo { 
     background: #fcfafa;
-  background: -webkit-linear-gradient(to bottom, #da0505 41%, #e4d8d8 100%);
-  background: -moz-linear-gradient(to bottom, #da0505 41%, #7d0c0b 100%);
-  background: linear-gradient(to bottom, #f3f0f0 41%, #8d8d8d 100%);
+  background: -webkit-linear-gradient(to bottom, #da0505 41%, #6e6d6d 100%);
+  background: -moz-linear-gradient(to bottom, #928f8f 41%, #575454 100%);
+  background: linear-gradient(to bottom, #f3f0f0 41%, #585858 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -233,7 +233,7 @@ h6,
 }
 
 .page-header {
-    background: linear-gradient(to right, rgb(16, 60, 69) 0%, rgba(2, 36, 91, 0) 100%), url(../img/carousel-2.jpg) center center no-repeat;
+    background: linear-gradient(to right, rgb(16, 60, 69) 0%, rgba(2, 36, 91, 0) 100%), url(../img/cover1.jpg) center center no-repeat;
     background-size: cover;
 }
 
@@ -577,7 +577,13 @@ h6,
 }
 
 
-/*** Testimonial ***/
+/*** Recrutamento ***/
+
+.btn-square.bg-primary.rounded-circle img {
+    width: 20px;
+    height: 20px;
+}
+
 .testimonial-carousel::before {
     position: absolute;
     content: "";
