@@ -23,7 +23,8 @@ h2,
 }
 
 #titulo { 
-    background: #fcfafa;
+  font-size: 70px;
+  background: #fcfafa;
   background: -webkit-linear-gradient(to bottom, #da0505 41%, #6e6d6d 100%);
   background: -moz-linear-gradient(to bottom, #928f8f 41%, #575454 100%);
   background: linear-gradient(to bottom, #f3f0f0 41%, #585858 100%);
