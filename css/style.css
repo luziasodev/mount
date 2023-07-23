@@ -1,6 +1,6 @@
 /********** Template CSS **********/
 :root {
-    --primary: rgb(16, 60, 69);
+    --primary: rgb(136, 204, 184);
     --secondary: #ccd4db;
     --light: #F5F5F5;
     --dark: rgb(16, 60, 69);
@@ -22,7 +22,7 @@ h2,
     font-weight: 700 !important;
 }
 
-.text-white.m-0 { 
+#titulo { 
     background: #fcfafa;
   background: -webkit-linear-gradient(to bottom, #da0505 41%, #e4d8d8 100%);
   background: -moz-linear-gradient(to bottom, #da0505 41%, #7d0c0b 100%);
